@@ -1,3 +1,3 @@
 const tiny = require("@nilofer/first-package");
 
-console.log(tiny('This is a test'))
+console.log(tiny('Nilofer Is Great! Let\'s Hire Her.'))
